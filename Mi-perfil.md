@@ -23,7 +23,7 @@ Hoy aprenderé a usar `git commit` por primera vez.
 
 - [si] Cree mi primer repositorio
 - [si] Hice mi primer commit
-- [ ] Cree una rama nueva
+- [si] Cree una rama nueva
 - [ ] Hice un merge
 - [ ] Subí mi repo a GitHub
 - [ ] Mandé un Pull Request
