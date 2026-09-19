@@ -24,9 +24,9 @@ Hoy aprenderé a usar `git commit` por primera vez.
 - [si] Cree mi primer repositorio
 - [si] Hice mi primer commit
 - [si] Cree una rama nueva
-- [ ] Hice un merge
-- [ ] Subí mi repo a GitHub
-- [ ] Mandé un Pull Request
+- [si] Hice un merge
+- [si] Subí mi repo a GitHub
+- [si] Mandé un Pull Request
 - [ ] Resolví un conflicto
 
 ## Recursos que quiero explorar
@@ -37,6 +37,6 @@ Hoy aprenderé a usar `git commit` por primera vez.
 
 ## Mis dudas hasta ahora
 
-1. 
-2. 
+1. Hacer que otros editen 
+2. Compartir el repositorio
 3. 
