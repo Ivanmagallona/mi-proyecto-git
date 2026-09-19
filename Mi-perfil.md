@@ -6,7 +6,7 @@
 - Una cosa que espero aprender hoy: utilizar git y github
 
 ## Mi frase favorita
-> Escribe aquí una frase que te guste.
+Sapere Aude Jurídicas
 
 ## Herramientas del curso
 
